@@ -1,5 +1,14 @@
 # pi-pizza-team 🍕
 
+> [!IMPORTANT]
+> **This repository is archived.** The extension now lives in the
+> [my-pizza-team](https://github.com/timzen/my-pizza-team) monorepo under
+> `harnesses/pi/`, and is released with the daemon so the two halves cannot drift
+> apart. See that repo's `docs/BATTERIES_INCLUDED.md` for the reasoning.
+>
+> Development continues there. This repo is kept read-only for history; its final
+> state is tagged `archive/pi-pizza-team`.
+
 Because the industry has "two pizza teams" and "one pizza teams", but we're a **π pizza team** (3.14 pizzas, the perfect size).
 
 A [Pi](https://pi.mariozechner.at/) extension for multi-agent task orchestration. Connects to the [my-pizza-team daemon](https://github.com/timzen/my-pizza-team) for state management and coordinates teammates via tmux.
